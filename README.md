@@ -13,5 +13,4 @@ gibi.
 
 test
 
-
-<Models.md> "Modeller"
+[Modellerin Listesi](https://github.com/sinantayak/AngularTraining3/blob/master/README.md)
