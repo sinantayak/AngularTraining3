@@ -13,4 +13,4 @@ gibi.
 
 test
 
-[Modellerin Listesi](https://github.com/sinantayak/AngularTraining3/blob/master/README.md)
+[Modellerin Listesi](https://github.com/sinantayak/AngularTraining3/blob/master/Models.MD)
